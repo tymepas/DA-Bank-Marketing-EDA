@@ -1,5 +1,5 @@
 
-# DA-Bank-Marketing-EDA (v3)
+# DA-Bank-Marketing-EDA
 
 This repo contains the exact notebook outputs: the target distribution plot and the correlation matrix as produced in the notebook.
 
